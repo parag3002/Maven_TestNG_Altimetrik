@@ -23,6 +23,7 @@ public class BaseClass
 		FIS_Properties = new FileInputStream(System.getProperty("user.dir")+"\\src\\test\\resources\\configfiles\\config.properties");
 		PS = new Properties();
 		PS.load(FIS_Properties);
+		//AA
 		
 	}
 	
