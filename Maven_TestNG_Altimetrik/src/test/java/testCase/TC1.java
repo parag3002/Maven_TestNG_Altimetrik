@@ -32,7 +32,7 @@ public class TC1 extends BaseClass
 		D.findElement(By.xpath(L.sauceDemo_LoginCTA)).click();
 		
 		Thread.sleep(1000);
-		//AA
+		//AA // BB
 		
 		
 		
