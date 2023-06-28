@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-28T20:42:48 IST" name="Suite" finished-at="2023-06-28T20:43:08 IST" duration-ms="20124">
+  <suite started-at="2023-06-28T22:15:42 IST" name="Suite" finished-at="2023-06-28T22:16:05 IST" duration-ms="23527">
     <groups>
     </groups>
-    <test started-at="2023-06-28T20:42:48 IST" name="Test" finished-at="2023-06-28T20:43:08 IST" duration-ms="20124">
+    <test started-at="2023-06-28T22:15:42 IST" name="Test" finished-at="2023-06-28T22:16:05 IST" duration-ms="23527">
       <class name="testCase.TC1">
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:49 IST" name="setup" finished-at="2023-06-28T20:42:52 IST" duration-ms="2818" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:43 IST" name="setup" finished-at="2023-06-28T22:15:49 IST" duration-ms="6048" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:52 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T20:42:53 IST" duration-ms="1443" status="PASS">
+        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:49 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T22:15:50 IST" duration-ms="1442" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,15 +27,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:53 IST" name="tearDown" finished-at="2023-06-28T20:42:53 IST" duration-ms="120" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:50 IST" name="tearDown" finished-at="2023-06-28T22:15:50 IST" duration-ms="126" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:53 IST" name="setup" finished-at="2023-06-28T20:42:55 IST" duration-ms="1600" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:50 IST" name="setup" finished-at="2023-06-28T22:15:52 IST" duration-ms="1459" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:55 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T20:42:56 IST" duration-ms="1382" status="PASS">
+        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:52 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T22:15:53 IST" duration-ms="1443" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,15 +51,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:56 IST" name="tearDown" finished-at="2023-06-28T20:42:56 IST" duration-ms="120" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:53 IST" name="tearDown" finished-at="2023-06-28T22:15:53 IST" duration-ms="126" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:56 IST" name="setup" finished-at="2023-06-28T20:42:58 IST" duration-ms="1474" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:53 IST" name="setup" finished-at="2023-06-28T22:15:55 IST" duration-ms="1500" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:58 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T20:42:59 IST" duration-ms="1332" status="PASS">
+        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:55 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T22:15:56 IST" duration-ms="1350" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -75,15 +75,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:59 IST" name="tearDown" finished-at="2023-06-28T20:42:59 IST" duration-ms="107" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:56 IST" name="tearDown" finished-at="2023-06-28T22:15:56 IST" duration-ms="115" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:42:59 IST" name="setup" finished-at="2023-06-28T20:43:01 IST" duration-ms="1449" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:56 IST" name="setup" finished-at="2023-06-28T22:15:58 IST" duration-ms="1503" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:43:01 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T20:43:02 IST" duration-ms="1409" status="PASS">
+        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:58 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T22:15:59 IST" duration-ms="1407" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -99,15 +99,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:43:02 IST" name="tearDown" finished-at="2023-06-28T20:43:02 IST" duration-ms="86" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:59 IST" name="tearDown" finished-at="2023-06-28T22:15:59 IST" duration-ms="82" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:43:02 IST" name="setup" finished-at="2023-06-28T20:43:04 IST" duration-ms="1517" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:15:59 IST" name="setup" finished-at="2023-06-28T22:16:01 IST" duration-ms="1530" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:43:04 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T20:43:05 IST" duration-ms="1338" status="PASS">
+        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:16:01 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T22:16:02 IST" duration-ms="1383" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -123,15 +123,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:43:05 IST" name="tearDown" finished-at="2023-06-28T20:43:05 IST" duration-ms="78" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:16:02 IST" name="tearDown" finished-at="2023-06-28T22:16:02 IST" duration-ms="112" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:43:05 IST" name="setup" finished-at="2023-06-28T20:43:07 IST" duration-ms="1718" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:16:02 IST" name="setup" finished-at="2023-06-28T22:16:04 IST" duration-ms="1461" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:43:07 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T20:43:08 IST" duration-ms="1397" status="PASS">
+        <test-method signature="display(java.lang.String,java.lang.String)[pri:1, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:16:04 IST" name="display" data-provider="ExcelData1" finished-at="2023-06-28T22:16:05 IST" duration-ms="1421" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -147,7 +147,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- display -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T20:43:08 IST" name="tearDown" finished-at="2023-06-28T20:43:08 IST" duration-ms="84" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCase.TC1@7b9a4292]" started-at="2023-06-28T22:16:05 IST" name="tearDown" finished-at="2023-06-28T22:16:05 IST" duration-ms="119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
