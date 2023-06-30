@@ -28,7 +28,7 @@ public class TC1 extends BaseClass
 		
 		D.findElement(By.xpath(L.sauceDemo_UserName)).sendKeys(userName);
 		D.findElement(By.xpath(L.sauceDemo_pass)).sendKeys(Pass);
-		screenShot1.ScreenShot();
+		//screenShot1.ScreenShot();
 		D.findElement(By.xpath(L.sauceDemo_LoginCTA)).click();
 		
 		Thread.sleep(1000);
